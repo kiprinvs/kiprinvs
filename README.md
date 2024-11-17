@@ -2,7 +2,7 @@
 
 ## Контакты
 
-[![M Email](https://img.shields.io/badge/M%20Email-red?style=for-the-badge&logo=mail&logoColor=white&color=red)](mailto:kiprinvs@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Swayer404) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:kiprinvs@gmail.com)
 <!--
 **kiprinvs/kiprinvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
