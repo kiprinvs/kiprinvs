@@ -1,4 +1,4 @@
-## Привет, меня зовут Вячеслав. 👋
+## Привет, меня зовут Вячеслав
 
 ## Контакты
 
@@ -14,6 +14,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23E94E1B.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### Мои проекты:
+- [Дипломный проект "foodgram"](https://github.com/kiprinvs/diplom)
 <!--
 **kiprinvs/kiprinvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
