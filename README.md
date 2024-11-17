@@ -20,8 +20,8 @@
 
 ### &#129299; Моя статистика:
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=timuritodev&hide=contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=timuritodev&hide=contribs&show_icons=true" />
+<a href="https://github-readme-stats.vercel.app/api?username=kiprinvs&hide=contribs&show_icons=true">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=kiprinvs&hide=contribs&show_icons=true" />
 </a>
 <!--
 **kiprinvs/kiprinvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
